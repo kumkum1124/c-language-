@@ -8,11 +8,11 @@ int main()
 
     if(num%2==0)
     {
-        printf("even number ");
+        printf("even number");
     }
     else
     {
-        printf("odd number ");
+        printf("odd number");
 
     }
-}
+}        
